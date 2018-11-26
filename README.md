@@ -1,2 +1,4 @@
 # realestate_perth_market_2009_2018
 Perth Real Estate Market from 2009 - 2018
+
+The purpose of this research is to find patterns in housing patterns in Perth real estate market. After the end on Mining boom in Perth in 2014 house prices fallen on average by 10% across all suburbs. However, not all suburbs folllowed the same trend. Some suburbs lost as much as 25% of house value in 2018 since 2014, and prices continue to fall. On the other side, other, more expensiver suburbs continued growth and were profitable for investors. This data analysis will summarize patterns from the data. Data for this analysis was coppied as it could be seen below with BeautifulSoup. Visualizations for this analysis were done in Tableau and are available to see from my profile as a story: https://public.tableau.com/profile/olga.bradford#!/vizhome/Perth_Realestate_Review/story_houses
